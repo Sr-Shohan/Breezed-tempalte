@@ -1,2 +1,3 @@
 # Breezed-tempalte
-template using html,css , bootstrap.
+### preview :https://breezed.netlify.app/
+Template using html,css , bootstrap.
